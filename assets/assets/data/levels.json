@@ -7,48 +7,6 @@
     "levelID": 5
   },
   {
-    "author": "Mark Twain",
-    "authorExtra": "",
-    "sentence": "The two most important days in your life are the day you are born and the day you find out why.",
-    "challenge": "THE T__ M__T __P__TA__ DAY_ __ Y_U_ _I_E ___ __E __Y Y__ __E BO__ ___ _H_ ___ Y__ __N_ OU_ __Y.",
-    "levelID": 12
-  },
-  {
-    "author": "Nelson Mandela",
-    "authorExtra": "",
-    "sentence": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-    "challenge": "T__ G_E___S_ G_O_Y __ __VI__ ____ N_T _N ___E_ _A_____, __T _N R___N_ E_E__ __M_ W_ _A__.",
-    "levelID": 7
-  },
-  {
-    "author": "Coco Chanel",
-    "authorExtra": "",
-    "sentence": "The most courageous act is still to think for yourself. Aloud.",
-    "challenge": "T_E __S_ _O_____OUS _C_ I_ S_IL_ TO ___N_ _O_ ____S___. AL_U_.",
-    "levelID": 8
-  },
-  {
-    "author": "Steve Jobs",
-    "authorExtra": "",
-    "sentence": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
-    "challenge": "Y___ __R_ __ ___N_ __ F_L_ A _A__E _ART __ ____ LIF_, __D ___ __L_ __Y T_ __ ____Y ___ISFIE_ _S T_ D_ __A_ _O_ BE__EV_ I_ __E_T _O_K. AN_ TH_ __L_ _AY _O __ GRE__ ___K __ _O LO__ _HA_ Y__ __.",
-    "levelID": 6
-  },
-  {
-    "author": "How To Play",
-    "authorExtra": "",
-    "sentence": "Where there is love there is life.",
-    "challenge": "WH_RE TH_R_ IS _OV_ TH_R_ IS _IF_.",
-    "levelID": 1
-  },
-  {
-    "author": "Jane Austen",
-    "authorExtra": "",
-    "sentence": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-    "challenge": "_T IS _ _R___ _N____S___Y __K_____DG__, _H__ _ _I_G__ M_N IN _____S__O_ O_ _ __O_ __R__N_, ____ _E I_ ____ O_ _ _IF_.",
-    "levelID": 11
-  },
-  {
     "author": "William Shakespeare",
     "authorExtra": "",
     "sentence": "to be or not to be that is the question.",
@@ -75,5 +33,117 @@
     "sentence": "A person who never made a mistake never tried anything new.",
     "challenge": "_ _ERSO_ __O _____ M__E A MIS_AKE N_VER T_IED _NY__I__ __W.",
     "levelID": 4
+  },
+  {
+    "author": "How To Play",
+    "authorExtra": "",
+    "sentence": "Where there is love there is life.",
+    "challenge": "___R_ T__R_ IS L___ T____ I_ L_FE.",
+    "levelID": 1
+  },
+  {
+    "author": "Albert Einstein",
+    "authorExtra": "",
+    "sentence": "Logic will get you from A to Z; imagination will get you everywhere.”",
+    "challenge": "_OG_C _I__ _E_ _OU FRO_ _ T_ Z; __AGIN__IO_ W___ G_T YOU __ERY_H___.”",
+    "levelID": 21
+  },
+  {
+    "author": "J.K. Rowling",
+    "authorExtra": "",
+    "sentence": "t is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.",
+    "challenge": "_ __ __P_______ _O L___ ___HO__ __IL_N_ AT _OM___I__, ___E__ Y__ ____ __ _AUT_O____ ____ Y_U __G__ A_ __L_ __T _AVE _____ _T __L - __ __I__ _ASE, ___ ___L __ D______.",
+    "levelID": 20
+  },
+  {
+    "author": "Mark Twain",
+    "authorExtra": "",
+    "sentence": "The two most important days in your life are the day you are born and the day you find out why.",
+    "challenge": "THE T__ M__T __P__TA__ DAY_ __ Y_U_ _I_E ___ __E __Y Y__ __E BO__ ___ _H_ ___ Y__ __N_ OU_ __Y.",
+    "levelID": 12
+  },
+  {
+    "author": "Dr. Seuss",
+    "authorExtra": "",
+    "sentence": "Today you are You, that is truer than true. There is no one alive who is Youer than You.",
+    "challenge": "_____ _O_ A__ Y__, _HAT __ _____ TH__ ____. T____ _S __ ___ ____E ___ __ __UER TH__ Y_U.",
+    "levelID": 18
+  },
+  {
+    "author": "Bob Marley",
+    "authorExtra": "",
+    "sentence": "One good thing about music, when it hits you, you feel no pain.",
+    "challenge": "___ G_OD _H_N_ _B___ M_S__, ____ I_ __T_ _O_, __U ____ NO P___.",
+    "levelID": 22
+  },
+  {
+    "author": "Nelson Mandela",
+    "authorExtra": "",
+    "sentence": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+    "challenge": "T__ G_E___S_ G_O_Y __ __VI__ ____ N_T _N ___E_ _A_____, __T _N R___N_ E_E__ __M_ W_ _A__.",
+    "levelID": 7
+  },
+  {
+    "author": "Coco Chanel",
+    "authorExtra": "",
+    "sentence": "The most courageous act is still to think for yourself. Aloud.",
+    "challenge": "T_E __S_ _O_____OUS _C_ I_ S_IL_ TO ___N_ _O_ ____S___. AL_U_.",
+    "levelID": 8
+  },
+  {
+    "author": "Ralph Waldo Emerson",
+    "authorExtra": "",
+    "sentence": "For every minute you are angry you lose sixty seconds of happiness.",
+    "challenge": "_OR E____ M____E _O_ _R_ A_G_Y ___ LOSE SI__Y S__O__S _F HA_P_____.",
+    "levelID": 14
+  },
+  {
+    "author": "Steve Jobs",
+    "authorExtra": "",
+    "sentence": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
+    "challenge": "Y___ __R_ __ ___N_ __ F_L_ A _A__E _ART __ ____ LIF_, __D ___ __L_ __Y T_ __ ____Y ___ISFIE_ _S T_ D_ __A_ _O_ BE__EV_ I_ __E_T _O_K. AN_ TH_ __L_ _AY _O __ GRE__ ___K __ _O LO__ _HA_ Y__ __.",
+    "levelID": 6
+  },
+  {
+    "author": "Mother Teresa",
+    "authorExtra": "",
+    "sentence": "If you judge people, you have no time to love them.”",
+    "challenge": "__ Y__ ___GE P__P_E, _O_ H_V_ _O ____ _O LOV_ ____.”",
+    "levelID": 15
+  },
+  {
+    "author": "Jane Austen",
+    "authorExtra": "",
+    "sentence": "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
+    "challenge": "_T IS _ _R___ _N____S___Y __K_____DG__, _H__ _ _I_G__ M_N IN _____S__O_ O_ _ __O_ __R__N_, ____ _E I_ ____ O_ _ _IF_.",
+    "levelID": 11
+  },
+  {
+    "author": "Garrison Keillor",
+    "authorExtra": "",
+    "sentence": "Anyone who thinks sitting in church can make you a Christian must also think that sitting in a garage can make you a car.",
+    "challenge": "_N____ __O _H_N__ ___T_N_ __ __UR__ ___ ____ ___ _ _HR_S____ ___T AL__ _____ _H__ S______ __ A _A____ ___ ____ Y__ A C__.",
+    "levelID": 16
+  },
+  {
+    "author": "Albert Einstein",
+    "authorExtra": "",
+    "sentence": "If you want your children to be intelligent, read them fairy tales. If you want them to be more intelligent, read them more fairy tales.",
+    "challenge": "__ _O_ ____ __U_ __I_____ __ __ ___E_______, ___D _H__ F____ _____. __ ___ _A__ T___ __ B_ ____ _NT________, ___D _HE_ _O_E ____Y _A___.",
+    "levelID": 19
+  },
+  {
+    "author": " Pablo Neruda",
+    "authorExtra": "",
+    "sentence": " love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.",
+    "challenge": " ____ Y__ ___H___ ___WI__ __W, __ _H__, __ ____ ____E. I _OV_ YO_ ___P__, __T____ ______MS O_ P____: _ _OV_ ___ __ T___ W_Y _______ _ __ ___ K__W ___ __HE_ _A_ __ _O____ ___ T__S, __ W___H ___R_ I_ __ _ __ ___, _O ___I__T_ _H__ __U_ ___D ____ _Y _H___ __ M_ ____, __ ________ ____ ____ I _AL_ AS____ Y_U_ ___S _____.",
+    "levelID": 13
+  },
+  {
+    "author": "Jim Henson",
+    "authorExtra": "",
+    "sentence": "Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.",
+    "challenge": "__A___ __ __ _H_ ___ O_ T__ ______E_ __D __ _AY __ _________ ____ __ME T_ T___ __ _I__ _ ______ __ __S___O____ ___O____ _ __A__ E_E.",
+    "levelID": 17
   }
 ]
