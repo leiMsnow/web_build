@@ -52876,7 +52876,7 @@ return A.ama(B.UT,A.a5(new A.a4(r,new A.arM(this,q.gl(q)),s),!0,s.h("ar.E")),10,
 a2M(a){var s,r,q,p,o,n=this.d.cx,m=n.$ti.h("a4<q.E,e>"),l=A.a5(new A.a4(n,new A.arN(),m),!0,m.h("ar.E")),k=A.c3(a,null,t.w).w.a.a,j=k-k*0.1*2
 m=A.a0(l).h("a4<1,L>")
 s=A.a5(new A.a4(l,new A.arO(this),m),!0,m.h("ar.E"))
-for(n=s.length,r=0,q=0,p=0;p<n;++p){o=s[p]+10
+for(n=s.length,r=0,q=0,p=0;p<n;++p){o=s[p]+28
 q+=o
 if(q>j){++r
 q=o}}return r+1},

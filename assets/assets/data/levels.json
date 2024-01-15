@@ -1,24 +1,10 @@
 [
   {
-    "author": "Maya Angelou",
-    "authorExtra": "",
-    "sentence": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
-    "challenge": "I'VE LE__NE_ THAT P_O_L_ _ILL _O_G__ ____ Y_U S_ID, _E__L_ WILL __RGE_ W_A_ Y_U DI_, B_T _EO__E _I_L NE__R ___GET HO_ __U ____ _HEM F_EL.",
-    "levelID": 5
-  },
-  {
     "author": "William Shakespeare",
     "authorExtra": "",
     "sentence": "to be or not to be that is the question.",
     "challenge": "_O B_ O_ N_T TO B_ T_A_ IS TH_ __ES_I__.",
     "levelID": 3
-  },
-  {
-    "author": "Martin Luther King Jr.",
-    "authorExtra": "",
-    "sentence": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
-    "challenge": "DA____SS __NNO_ D_I__ OUT __RK_ES_; __L_ L__H_ C__ D_ THA_. ____ C___O_ ___V_ _UT ____; O___ LO__ C_N __ T_A_.",
-    "levelID": 9
   },
   {
     "author": "Oscar Wilde",
@@ -49,6 +35,34 @@
     "levelID": 21
   },
   {
+    "author": "Ralph Waldo Emerson",
+    "authorExtra": "",
+    "sentence": "For every minute you are angry you lose sixty seconds of happiness.",
+    "challenge": "F__ _V__Y _IN___ _O_ AR_ __G_Y ___ __SE __XT_ S_C__DS O_ _A__I_ESS.",
+    "levelID": 14
+  },
+  {
+    "author": "Bob Marley",
+    "authorExtra": "",
+    "sentence": "One good thing about music, when it hits you, you feel no pain.",
+    "challenge": "___ G__D __I_G AB__T _US_C, WH__ _T _I__ __U, YO_ _EE_ _O __I_.",
+    "levelID": 22
+  },
+  {
+    "author": "Coco Chanel",
+    "authorExtra": "",
+    "sentence": "The most courageous act is still to think for yourself. Aloud.",
+    "challenge": "_HE __S_ _OUR__EO_S _C_ IS ST_L_ __ _H___ F__ _O______. ___U_.",
+    "levelID": 8
+  },
+  {
+    "author": "Mother Teresa",
+    "authorExtra": "",
+    "sentence": "If you judge people, you have no time to love them.”",
+    "challenge": "__ _O_ _____ P_O_LE, Y_U HAV_ __ T___ T_ __V_ TH__.”",
+    "levelID": 15
+  },
+  {
     "author": "J.K. Rowling",
     "authorExtra": "",
     "sentence": "t is impossible to live without failing at something, unless you live so cautiously that you might as well not have lived at all - in which case, you fail by default.",
@@ -70,13 +84,6 @@
     "levelID": 18
   },
   {
-    "author": "Bob Marley",
-    "authorExtra": "",
-    "sentence": "One good thing about music, when it hits you, you feel no pain.",
-    "challenge": "___ G_OD _H_N_ _B___ M_S__, ____ I_ __T_ _O_, __U ____ NO P___.",
-    "levelID": 22
-  },
-  {
     "author": "Nelson Mandela",
     "authorExtra": "",
     "sentence": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
@@ -84,32 +91,11 @@
     "levelID": 7
   },
   {
-    "author": "Coco Chanel",
-    "authorExtra": "",
-    "sentence": "The most courageous act is still to think for yourself. Aloud.",
-    "challenge": "T_E __S_ _O_____OUS _C_ I_ S_IL_ TO ___N_ _O_ ____S___. AL_U_.",
-    "levelID": 8
-  },
-  {
-    "author": "Ralph Waldo Emerson",
-    "authorExtra": "",
-    "sentence": "For every minute you are angry you lose sixty seconds of happiness.",
-    "challenge": "_OR E____ M____E _O_ _R_ A_G_Y ___ LOSE SI__Y S__O__S _F HA_P_____.",
-    "levelID": 14
-  },
-  {
     "author": "Steve Jobs",
     "authorExtra": "",
     "sentence": "Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.",
     "challenge": "Y___ __R_ __ ___N_ __ F_L_ A _A__E _ART __ ____ LIF_, __D ___ __L_ __Y T_ __ ____Y ___ISFIE_ _S T_ D_ __A_ _O_ BE__EV_ I_ __E_T _O_K. AN_ TH_ __L_ _AY _O __ GRE__ ___K __ _O LO__ _HA_ Y__ __.",
     "levelID": 6
-  },
-  {
-    "author": "Mother Teresa",
-    "authorExtra": "",
-    "sentence": "If you judge people, you have no time to love them.”",
-    "challenge": "__ Y__ ___GE P__P_E, _O_ H_V_ _O ____ _O LOV_ ____.”",
-    "levelID": 15
   },
   {
     "author": "Jane Austen",
@@ -133,6 +119,13 @@
     "levelID": 19
   },
   {
+    "author": "Martin Luther King Jr.",
+    "authorExtra": "",
+    "sentence": "Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.",
+    "challenge": "DAR_____ ____O_ ___V_ __T D_______; ____ __G__ ___ D_ ____. ____ CA____ _____ _UT __TE; ___Y ___E ___ D_ T___.",
+    "levelID": 9
+  },
+  {
     "author": " Pablo Neruda",
     "authorExtra": "",
     "sentence": " love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.",
@@ -145,5 +138,12 @@
     "sentence": "Beauty is in the eye of the beholder and it may be necessary from time to time to give a stupid or misinformed beholder a black eye.",
     "challenge": "__A___ __ __ _H_ ___ O_ T__ ______E_ __D __ _AY __ _________ ____ __ME T_ T___ __ _I__ _ ______ __ __S___O____ ___O____ _ __A__ E_E.",
     "levelID": 17
+  },
+  {
+    "author": "Maya Angelou",
+    "authorExtra": "",
+    "sentence": "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.",
+    "challenge": "_'_E L_A____ ___T __O__E ____ ___G__ ____ Y__ ____, _____E ____ F___E_ ____ __U D_D, ___ ______ _I__ _____ ______ ___ YO_ ___E ____ ____.",
+    "levelID": 5
   }
 ]
